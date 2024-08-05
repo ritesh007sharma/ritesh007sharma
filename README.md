@@ -7,6 +7,3 @@
 🌍 Engaged in Frontend Development, AI/ML, and Distributed Systems <br>
 💻 Check out my [Portfolio](https://ritesh-sharma.com) <br>
 💬 Let’s discuss **Frontend Challenges**, **AI Advancements**, **Distributed Tech**, and **Computer Network Security** <br>
-
-**Contact Information** <br>
-Phone: `801-856-5109` <br>
