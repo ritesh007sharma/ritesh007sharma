@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I’m Ritesh Sharma 👋 
+#### Software Engineer
 
-<!--
-**ritesh007sharma/ritesh007sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Daily toolkit: .js, .ts, .py, .go, .html, .css
+🌍 Engaged in frontend development, AI/ML, and distributed systems
+💅 Check out my [Portfolio] (https://ritesh-sharma.com);<br>
+💬 Let’s discuss **Frontend Challenges**, **AI Advancements**, **Distributed Tech**, and **Computer Network Security**
 
-Here are some ideas to get you started:
+Contact Information:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: rit007esh@gmail.com
+Phone: 801-856-5109
+[LinkedIn](https://www.linkedin.com/in/ritesh007sharma/);<br>
+[Medium](https://medium.com/@sharrite);<br>
